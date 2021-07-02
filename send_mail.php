@@ -1,5 +1,5 @@
 <?
-$mail_to = "yourpersonalemail@gmail.com";
+$mail_to = "domonique.eccleston@gmail.com";
 $mail_from = "webmaster@example.com";
 
 
